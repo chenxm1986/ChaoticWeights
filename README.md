@@ -14,6 +14,7 @@ Please see requirements.txt for details.
 
 Usage Example
 ===========
+```
 cd ChaoticWeights
 pip install virtualenv
 # Create a virtual environment
@@ -32,6 +33,7 @@ Imagenet-Toy.ipynb
 ## VGG and ResNet examples
 ImageNet-VGG16.ipynb
 ImageNet-ResNet18.ipynb
+```
 
 Code Author
 ============

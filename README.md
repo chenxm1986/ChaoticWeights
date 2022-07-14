@@ -23,7 +23,6 @@ source .env/bin/activate
 pip install -r requirements.txt
 jupyter notebook
 
-
 ## An image encryted by ACM
 Toy_ACM.ipynb 
 

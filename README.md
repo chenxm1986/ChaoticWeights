@@ -1,7 +1,7 @@
 Chaotic Weights
 ============
 
-This code is a simple demonstration of how to protect the weights of a neural network running on an GPU. The basic principle is to change the positions of the weights by an chaotic algorithm named Arnold's cat map.
+This code is a simple demonstration of how to protect the weights of a neural network running on an accelerator like GPU and NPU. The basic principle is to change the positions of the weights by an chaotic algorithm named Arnold's cat map.
 
 This python code is a simple demonstration for the method proposed in the following paper. It is just for a function demonstration but the performance is not optimized. The latency of encryption (decryption) can be shortened by implementing the Arnold's cat map algorithm in C/C++ or CUDA.
 
